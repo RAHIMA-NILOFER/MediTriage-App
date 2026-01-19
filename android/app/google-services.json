@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316510012357",
+    "project_id": "meditriage-fee23",
+    "storage_bucket": "meditriage-fee23.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316510012357:android:dd69e23e5f99fd58ffc1ac",
+        "android_client_info": {
+          "package_name": "com.example.meditriage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOiGu5L4LosArWBzrOaJxOmsE3UpEAync"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

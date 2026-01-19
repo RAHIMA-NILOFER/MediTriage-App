@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Government General Hospital, Chennai",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "type": "government",
+    "service": "free"
+  },
+  {
+    "name": "Stanley Medical College Hospital",
+    "latitude": 13.1231,
+    "longitude": 80.2824,
+    "type": "government",
+    "service": "free"
+  },
+  {
+    "name": "Rajiv Gandhi Government General Hospital",
+    "latitude": 13.0816,
+    "longitude": 80.2766,
+    "type": "government",
+    "service": "free"
+  },
+  {
+    "name": "Kilpauk Medical College Hospital",
+    "latitude": 13.0779,
+    "longitude": 80.2407,
+    "type": "government",
+    "service": "free"
+  },
+  {
+    "name": "Madras Medical College",
+    "latitude": 13.0809,
+    "longitude": 80.2785,
+    "type": "government",
+    "service": "free"
+  }
+]
